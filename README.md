@@ -1,5 +1,5 @@
-## Hi! eu sou o Micael Robert
+## Hi! I'm Micael Robert
 
 
-- 🔭 Cursando Engenharia de software
-- 🌱 Estudando Python
+- 🔭 I'm pursuing a degree in Software Engineering
+- 🌱 I'm learning Python, C++, and JavaScript
